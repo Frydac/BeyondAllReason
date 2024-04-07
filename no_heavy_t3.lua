@@ -5,6 +5,7 @@ local units_to_remove = {
     "corkorg", -- "Juggernaut",
     "corcrw", -- "Dragon",
     "corcrwh", -- "Dragon", not sure what the difference is
+	"legfort", -- "Tyrannus" (legion dragon like air)
 }
 
 -- makes lookup more efficient/convenient
