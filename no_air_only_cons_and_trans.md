@@ -1,4 +1,10 @@
-Tweak defs to disable all air units, but still keep t1/t2 constructors and t1 transports (including legion).
+Tweak defs to 
+
+ * disable all air units
+ * keep t1/t2 air constructors 
+ * keep t1 transports
+ * includes legion
+
 Having no air cons is annoying for late game eco, and transports can be used to get to metal spots/geo's on hard to reach places.
 
 How to use: https://docs.google.com/document/d/1qOaAvKb_eoY041f_XXibOA_VLQGC5mhHnltMIZEuu84/edit
