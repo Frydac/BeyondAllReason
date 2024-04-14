@@ -28,6 +28,3 @@ for name, ud in pairs(UnitDefs) do
         end
     end
 end
-
-
-
